@@ -50,7 +50,7 @@ Common commands:
      help            shows the help for a subcommand
      init            initializes a new Vagrant environment by creating a Vagrantfile
      list            
-     login           log in to HashiCorp's Vagrant Cloud
+     login           log in to HashiCorps Vagrant Cloud
      package         packages a running vagrant environment into a box
      plugin          manages plugins: install, uninstall, update, etc.
      port            displays information about guest port mappings
