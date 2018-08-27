@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First MVP Club session
+title: Get started at MVP Club session August 8, 2018
 permalink: firstmvpclubsession.html
 ---
 
