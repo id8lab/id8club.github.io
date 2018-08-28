@@ -347,3 +347,17 @@ You can download it form [here](https://www.sourcetreeapp.com/)
 And follow this [tutorial](https://confluence.atlassian.com/display/BITBUCKET/Tutorial%3A+Learn+SourceTree+with+Bitbucket+Cloud) to learn how to use SourceTree.
 
 ---
+
+### Creating a static website
+
+Use your vagrant box to set up a static website.
+
+please follow the guidelines from the static website project.
+
+use git to clone the project:
+
+```
+$ git clone git@github.com:mvpclub/static_website.git
+```
+
+read more on [static website README](https://github.com/mvpclub/static_website)
