@@ -142,8 +142,23 @@ Following is the [github cheatsheet](https://services.github.com/on-demand/downl
 
 <div class="col-md-6">
 
-<h2 id="install-git">Install Git</h2>
+### Install Git
 <p>GitHub provides desktop clients that include a graphical user interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.</p>
+
+If you do not have Git on your vagrant box, you can install it like this:
+```
+$ apt-get update
+$ apt-get install git-core
+$ git --version
+```
+The last command will give you the version of the git installed.
+
+it is a good idea to configure your Git settings:
+```
+$ git config --global user.name "testuser"
+$ git config --global user.email "testuser@example.com"
+```
+
 
 <h3 id="github-desktop">GitHub Desktop</h3>
 <p>https://desktop.github.com/</p>
