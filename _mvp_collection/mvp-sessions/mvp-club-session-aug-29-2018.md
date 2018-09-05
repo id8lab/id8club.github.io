@@ -79,10 +79,10 @@ or not commonly used. To see all subcommands, run the command
 Now it is time to initialize the box. run:
 
 ```bash
-$ vagrant init hashicorp/precise64
+$ vagrant init ubuntu/xenial64
 ```
 This will initialize the vagrant linux image.
-You can use ubuntu/trusty64 instead. See the list of images available [here](https://app.vagrantup.com/boxes/search)
+You can See the list of images available [here](https://app.vagrantup.com/boxes/search)
 
 ### Starting the instance
 
@@ -100,7 +100,7 @@ Sometimes, the windows version will need the box add command.
 But anyway, if you want to add another box run:
 
 ```bash   
-$ vagrant box add hashicorp/precise64
+$ vagrant box add ubuntu/xenial64
 ```
 
 ### Enable port forwarding
@@ -109,7 +109,7 @@ Your Vagrantfile will typically look like this:
 
 ```bash  
 Vagrant.configure("2") do |config|
-  config.vm.box = "hashicorp/precise64"
+  config.vm.box = "ubuntu/xenial64"
 end
 ```
 
@@ -118,7 +118,7 @@ You can add port forwarding in the Vagrantfile and then restart your instance:
 ```bash   
 
 Vagrant.configure("2") do |config|
-  config.vm.box = "hashicorp/precise64"
+  config.vm.box = "ubuntu/xenial64"
   config.vm.network :forwarded_port, guest: 80, host: 4567
 end
 ```
