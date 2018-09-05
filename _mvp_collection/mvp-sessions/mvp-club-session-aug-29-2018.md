@@ -147,8 +147,8 @@ Following is the [github cheatsheet](https://services.github.com/on-demand/downl
 
 If you do not have Git on your vagrant box, you can install it like this:
 ```
-$ apt-get update
-$ apt-get install git-core
+$ sudo apt-get update
+$ sudo apt-get install git-core
 $ git --version
 ```
 The last command will give you the version of the git installed.
