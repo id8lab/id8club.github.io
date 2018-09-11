@@ -305,3 +305,8 @@ The key's randomart image is:
 $
 ```
 Read more about ssh-keygen [here](https://www.ssh.com/ssh/keygen/)
+
+### Linux command
+Please follow this [link](https://www.computerworld.com/article/2598082/linux/linux-linux-command-line-cheat-sheet.html) to get a list of linux commands
+
+And here is a[tutorial](http://www.linuxcommand.org/lc3_learning_the_shell.php) to learn the linux commandline 
