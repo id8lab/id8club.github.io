@@ -14,6 +14,7 @@ permalink: mvpclubsessionaug292018.html
 
 
 ---
+
 ### Follow up on Vagrant installation
 
 Vagrant helps you create virtual machines on-the-fly via a set of reusable configuration files. Developers can share their configurations and scripts via GitHub and elsewhere, so that other devs can spin up an identical environment and tooling.

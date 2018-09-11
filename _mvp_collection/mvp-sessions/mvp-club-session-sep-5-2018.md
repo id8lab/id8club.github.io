@@ -4,6 +4,8 @@ title: MVP Club session September 5, 2018
 permalink: mvpclubsessionsep052018.html
 ---
 
+---
+
 ### Agenda
 
 - Follow up on Vagrant installation
@@ -11,6 +13,7 @@ permalink: mvpclubsessionsep052018.html
 - Create a static website
 - Create a python based website
 - Integrate a database
+
 
 ---
 
