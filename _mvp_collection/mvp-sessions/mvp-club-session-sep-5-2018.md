@@ -13,6 +13,7 @@ permalink: mvpclubsessionsep052018.html
 - Integrate a database
 
 ---
+
 Last week we managed to setup a static website and configure nginx.
 
 
