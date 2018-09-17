@@ -39,5 +39,3 @@ so that it is easier for you to browse the databases.
 download the client from [here](https://sqlitebrowser.org/)
 
 ---
-
-Rolf added this

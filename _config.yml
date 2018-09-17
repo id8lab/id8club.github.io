@@ -5,6 +5,8 @@ collections:
   mvp_collection:
     output: true
     permalink: /:collection/:name
+  posts:
+    output: true
 defaults:
     scope:
       path: "" # an empty string here means all files in the project

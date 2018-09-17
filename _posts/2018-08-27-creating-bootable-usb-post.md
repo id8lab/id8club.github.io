@@ -6,7 +6,7 @@ description: Create a bootable linux USB stick
 date:   2018-08-27 23:30:00 +0530
 categories: linux
 tags: linux
-published: false
+published: true
 redirect_from:
   - /JCU MVP/post/
   - /bootableUSB.html
