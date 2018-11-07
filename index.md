@@ -10,7 +10,7 @@ You will get an understanding about cloud computing, DevOps, Software developmen
 
 _Key words: git, Ansible, AWS, AI, javascript, Arduino, Raspberry PI, C/C++, Java, mobile development, Web development, Design Thinking, Entrepreneurship_
 
-For general communication, please join the [JCU MVP Club slack channel](https://join.slack.com/t/jcumvpclub/shared_invite/enQtNDIzMDQ0MDQ5NzYxLTQ2YTk3ZDA2MzMyMzQwZTAwOWNlOWQ1MjhiYmZiNWI5YmFlYTAyMzQ4MTM5NzM3N2VlYmJlYmYzNTNlNTQ3Yzc)
+For general communication, please join the [JCU MVP Club slack channel](https://join.slack.com/t/jcumvpclub/shared_invite/enQtNDczNDU2NTYzODkxLWVkYzk3NDRiMTAyOGFjMDI3Y2ZkZjYyY2NlZGY5MWRlOGRjNWZlNDYyOGNlMTA5NDRkOWMwMzVjOWU1MjQ4NjM)
 
 ### MVP Club sessions
 {% for item in site.mvp_collection %}
