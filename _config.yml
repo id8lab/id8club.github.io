@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
-title: The JCU MVP Club test
-description: Software development and Entrepreneurship test
+title: The JCU MVP Club
+description: Software development and Entrepreneurship
 collections:
   mvp_collection:
     output: true
