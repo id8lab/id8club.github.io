@@ -10,7 +10,7 @@
 }
 
 .navbar {
-    background-color: lightslategray;
+    background: linear-gradient(to right,#2e3192 0,#0066b3 100%);
     font-size: 1em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
@@ -21,4 +21,8 @@
   width: 80%;
   margin: auto;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-item{
+
+  background: #FFF;
 }
