@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: The JCU MVP Club test
-description: Software development and Entrepreneurship
+description: Software development and Entrepreneurship test
 collections:
   mvp_collection:
     output: true
