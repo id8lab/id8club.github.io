@@ -16,3 +16,9 @@
     color: white;
     padding: 8px 5px 8px 5px;
 }
+
+.container{
+  width: 80%;
+  margin: auto;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
