@@ -26,8 +26,8 @@ It could potentially also stop people from being able to "tap and leave" by moni
 
 ### Architecture
 
-*architecture to be inserted*
 
+![architecture](https://imgur.com/a/OJn8ASr)
 
 
 ---
