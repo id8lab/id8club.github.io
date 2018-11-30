@@ -1,5 +1,5 @@
 ### About page
-
+<br>
 
 #### MISSION
 To improve James Cook University’s student industry readiness. In addition to the courses offered by school we want to give ambitious IT and business students the opportunity to work together with likeminded peers on real world projects.
