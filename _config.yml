@@ -21,3 +21,21 @@ defaults:
       comments: true
       share: true
       related: true
+collections:
+  projects_collection:
+    output: true
+    permalink: /:collection/:name
+  posts:
+    output: true
+defaults:
+  # _posts
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: projects_collection
+      #type: posts
+    values:
+      layout: "default"
+      read_time: true
+      comments: true
+      share: true
+      related: true
