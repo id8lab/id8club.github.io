@@ -14,6 +14,11 @@ collections:
     permalink: /:collection/:name
   posts:
     output: true
+  tutorials_collection:
+    output: true
+    permalink: /:collection/:name
+  posts:
+    output: true
 defaults:
   # _posts
   - scope:
