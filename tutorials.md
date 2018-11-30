@@ -1,7 +1,6 @@
 ### Tutorial page
 <br>
 
----
 
 {% for item in site.tutorials_collection %}
   <h2>{{ item.title }}</h2>
