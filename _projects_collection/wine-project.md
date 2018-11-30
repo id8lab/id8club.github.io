@@ -8,7 +8,8 @@ permalink: wine-project.html
 
 ### wine project
 
-*INSERT PROJECT DESCRIPTION*
+project description
+
 ---
 
 ### Goals
@@ -17,6 +18,8 @@ permalink: wine-project.html
 - 
 - 
 - 
+
+---
 
 ### Architecture
 
