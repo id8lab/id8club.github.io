@@ -8,8 +8,8 @@ permalink: E-Commerce-website.html
 
 ### E-Commerce website
 
-*INSERT PROJECT DESCRIPTION*
----
+project description
+
 ---
 ### Goals
 
@@ -17,7 +17,7 @@ permalink: E-Commerce-website.html
 - 
 - 
 - 
----
+
 ---
 ### Architecture
 
