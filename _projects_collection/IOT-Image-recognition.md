@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MVP Club session September 5, 2018
-permalink: mvpclubsessionsep052018.html
+title: IoT Image Recognition
+permalink: IOT-Image-recognition.html
 ---
 
 ---
