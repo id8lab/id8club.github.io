@@ -10,14 +10,15 @@ permalink: E-Commerce-website.html
 
 *INSERT PROJECT DESCRIPTION*
 ---
-
+---
 ### Goals
 
 - 
 - 
 - 
 - 
-
+---
+---
 ### Architecture
 
 *architecture to be inserted*
