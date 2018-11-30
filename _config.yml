@@ -1,4 +1,6 @@
-theme: jekyll-theme-time-machine
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
 title: The JCU MVP Club
 description: Software development and Entrepreneurship
 collections:
@@ -8,8 +10,14 @@ collections:
   posts:
     output: true
 defaults:
-    scope:
+  # _posts
+  - scope:
       path: "" # an empty string here means all files in the project
       type: mvp_collection
+      #type: posts
     values:
       layout: "default"
+      read_time: true
+      comments: true
+      share: true
+      related: true
