@@ -4,6 +4,8 @@ title: Install openCV
 permalink: Install-openCV.html
 ---
 
+---
+
 ### Installing the necessary packages
 
 The following commands will install all required and optional dependencies:
