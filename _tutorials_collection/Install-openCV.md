@@ -62,7 +62,8 @@ git clone https://github.com/opencv/opencv_contrib.git
 
 ### Building OpenCV from Source Using CMake
 
-1. Create a temporary directory, which we denote as <cmake_build_dir>, where you want to put the generated Makefiles, project files as well the object files and output binaries and enter there.
+
+Create a temporary directory, which we denote as <cmake_build_dir>, where you want to put the generated Makefiles, project files as well the object files and output binaries and enter there.
 
     For example
     cd ~/opencv
@@ -71,7 +72,9 @@ git clone https://github.com/opencv/opencv_contrib.git
 
 ---
 
-2. Configuring. Run cmake [<some optional parameters>] <path to the OpenCV source directory>
+### Configuring. Run cmake 
+
+[<some optional parameters>] <path to the OpenCV source directory>
 
     For example
     cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
@@ -88,7 +91,8 @@ git clone https://github.com/opencv/opencv_contrib.git
 
 ---
 
-3. Description of some parameters
+### Description of some parameters
+
         build type: CMAKE_BUILD_TYPE=Release\Debug
         to build with modules from opencv_contrib set OPENCV_EXTRA_MODULES_PATH to <path to opencv_contrib/modules/>
         set BUILD_DOCS for building documents
@@ -96,7 +100,8 @@ git clone https://github.com/opencv/opencv_contrib.git
         
 ---
 
-4. [optional] Building python. Set the following python parameters:
+### [optional] Building python. Set the following python parameters:
+
         PYTHON2(3)_EXECUTABLE = <path to python>
         PYTHON_INCLUDE_DIR = /usr/include/python<version>
         PYTHON_INCLUDE_DIR2 = /usr/include/x86_64-linux-gnu/python<version>
@@ -104,34 +109,33 @@ git clone https://github.com/opencv/opencv_contrib.git
         PYTHON2(3)_NUMPY_INCLUDE_DIRS = /usr/lib/python<version>/dist-packages/numpy/core/include/
   
 ---
+### [optional] Building java.
 
-5. [optional] Building java.
         Unset parameter: BUILD_SHARED_LIBS
         It is useful also to unset BUILD_EXAMPLES, BUILD_TESTS, BUILD_PERF_TESTS - as they all will be statically linked with                   OpenCV and can take a lot of memory.
 
 ---
 
-6. Build. From build directory execute make, it is recommended to do this in several threads
+### Build. From build directory execute make, it is recommended to do this in several threads
 
     For example
     make -j7 # runs 7 jobs in parallel
 
 ---
-
-7. [optional] Building documents. Enter <cmake_build_dir/doc/> and run make with target "doxygen"
+### [optional] Building documents. Enter <cmake_build_dir/doc/> and run make with target "doxygen"
 
     For example
     cd ~/opencv/build/doc/
     make -j7 doxygen
 
 ---
+### To install libraries, execute the following command from build directory
 
-8.To install libraries, execute the following command from build directory
   sudo make install
 
 ---
 
-9. [optional] Running tests
+### [optional] Running tests
     Get the required test data from OpenCV extra repository.
 
     For example
@@ -142,7 +146,7 @@ git clone https://github.com/opencv/opencv_contrib.git
     For example
     <cmake_build_dir>/bin/opencv_test_core
 
-Note
+## Note
     If the size of the created library is a critical issue (like in case of an Android build) you can use the install/strip command to get the smallest size possible. The stripped version appears to be twice as small. However, we do not recommend using this unless those extra megabytes do really matter. 
 
 
