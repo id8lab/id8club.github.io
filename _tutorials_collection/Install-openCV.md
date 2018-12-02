@@ -44,7 +44,7 @@ You can use the latest stable OpenCV version or you can grab the latest snapshot
 
 ### Getting the Latest Stable OpenCV Version
 
-    Go to our <a href="https://opencv.org/releases.html">downloads page.</a>
+    Go to our downloads page.
     Download the source archive and unpack it.
     
 ---
