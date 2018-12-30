@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 comments: true
 title: Get started at MVP Club session August 8, 2018
 author: hansen

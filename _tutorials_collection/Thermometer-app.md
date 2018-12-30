@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Thermometer app
 image: assets/images/jcucairns.jpg
 comments: true

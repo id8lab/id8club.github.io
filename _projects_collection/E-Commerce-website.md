@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: E-Commerce website
 image: assets/images/jcucairns.jpg
 comments: true

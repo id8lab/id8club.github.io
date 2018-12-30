@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: IoT Image Recognition
 image: assets/images/jcucairns.jpg
 comments: true
