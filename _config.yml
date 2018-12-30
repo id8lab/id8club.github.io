@@ -9,11 +9,6 @@ google_analytics: 'UA-131489769-1'
 disqus: 'mvpclub'
 mailchimp-list: 'https://us7.admin.mailchimp.com/lists/members/?id=449553#p:1-s:25-so:null'
 collections:
-  mvp_collection:
-    output: true
-    permalink: /:collection/:name
-  posts:
-    output: true
   projects_collection:
     output: true
     permalink: /:collection/:name

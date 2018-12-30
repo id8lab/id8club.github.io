@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: post
 title: MVP Club session September 5, 2018
 author: hansen
 comments: true
+date:   2018-09-05 23:30:00 +0530
+featured: false
+published: true
+categories: [ jcu, mvpclub ]
 image: assets/images/jcucairns.jpg
-permalink: mvpclubsessionsep052018.html
----
-
+permalink: jcumvpclubsession05sep.html
 ---
 
 ### Agenda
