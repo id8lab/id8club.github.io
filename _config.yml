@@ -1,8 +1,13 @@
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-include-cache
+name: "MVP Club"
+
+baseurl: ''
 title: The JCU MVP Club
 description: Software development and Entrepreneurship
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+google_analytics: 'UA-131489769-1'
+disqus: 'mvpclub'
+mailchimp-list: 'https://us7.admin.mailchimp.com/lists/members/?id=449553#p:1-s:25-so:null'
 collections:
   mvp_collection:
     output: true
@@ -31,4 +36,43 @@ defaults:
       comments: true
       share: true
       related: true
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-archives
 
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
+
+# Authors
+authors:
+  hansen:
+    name: Hansen
+    display_name: Hansen
+    gravatar: 6dbdef0376ac4867c80ff2274d6e8fc3
+    email: michaelmotet.hansen@jcu.edu.au
+    web: https://mvpclub.github.io
+    twitter: https://twitter.com/motethansen
+    description: "Mentor for startups and Software engineers."
+  robert:
+    name: Robert
+    display_name: Robert
+    gravatar: 6dbdef0376ac4867c80ff2274d6e8fc3
+    email: rob@my.jcu.edu.au
+    web: https://mvpclub.github.io
+    twitter: https://twitter.com/rob
+    description: "Raspberry PI, IoT and AI developer."

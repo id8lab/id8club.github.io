@@ -1,4 +1,9 @@
-### About page
+---
+layout: page
+title: About JCU MVP Club
+---
+![JCU](https://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2014/12/23/jcu-townsville-campus.jpg)
+
 <br>
 
 #### Mission
@@ -14,7 +19,7 @@ To improve James Cook University’s student industry readiness. In addition to 
 #### Benefits for JCU singapore
 This club aims to elevate the industry readiness of JCU students by placing them in an environment and work structure which aims to resemble the industry as closely as possible. Thanks to the multitude of passionate people involved with the club, we aim to grow a network with industry professionals & other universities to put JCU’s IT program on the map.
 All activities performed in the club are meant to be real projects with the intention of real-life deployment. This means that the students get to see through a project in a manner different from coursework assignments. Furthermore, these projects will go directly into each student’s portfolio, improving greatly the strength of JCU students’ applications.
-
+<a name="slack"></a>
 ---
 
 ### MVP Club Slack channel

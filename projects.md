@@ -1,3 +1,8 @@
+---
+layout: page
+title: JCU MVP Club Projects
+---
+
 ### Project page
 <br>
 We have 3 very interesting projects ongoing in the MVP club. They vary in difficulty and type of technology and skills needed. Students are able to choose what project they want to work on based on their skills and interests.

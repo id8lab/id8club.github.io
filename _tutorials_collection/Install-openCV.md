@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Install openCV
+image: assets/images/jcucairns.jpg
 permalink: Install-openCV.html
 ---
 
@@ -37,7 +38,7 @@ The packages can be installed using a terminal and the following commands or by 
 
 ### Getting OpenCV Source Code
 
-You can use the latest stable OpenCV version or you can grab the latest snapshot from our 
+You can use the latest stable OpenCV version or you can grab the latest snapshot from our
 <a href="https://github.com/opencv/opencv">Git repository.</a>
 
 ---
@@ -46,7 +47,7 @@ You can use the latest stable OpenCV version or you can grab the latest snapshot
 
     Go to our downloads page.
     Download the source archive and unpack it.
-    
+
 ---
 
 ### Getting the Cutting-edge OpenCV from the Git Repository
@@ -72,7 +73,7 @@ Create a temporary directory, which we denote as <cmake_build_dir>, where you wa
 
 ---
 
-### Configuring. Run cmake 
+### Configuring. Run cmake
 
 [<some optional parameters>] <path to the OpenCV source directory>
 
@@ -97,7 +98,7 @@ Create a temporary directory, which we denote as <cmake_build_dir>, where you wa
         to build with modules from opencv_contrib set OPENCV_EXTRA_MODULES_PATH to <path to opencv_contrib/modules/>
         set BUILD_DOCS for building documents
         set BUILD_EXAMPLES to build all examples
-        
+
 ---
 
 ### [optional] Building python. Set the following python parameters:
@@ -107,7 +108,7 @@ Create a temporary directory, which we denote as <cmake_build_dir>, where you wa
         PYTHON_INCLUDE_DIR2 = /usr/include/x86_64-linux-gnu/python<version>
         PYTHON_LIBRARY = /usr/lib/x86_64-linux-gnu/libpython<version>.so
         PYTHON2(3)_NUMPY_INCLUDE_DIRS = /usr/lib/python<version>/dist-packages/numpy/core/include/
-  
+
 ---
 ### [optional] Building java.
 
@@ -147,6 +148,4 @@ Create a temporary directory, which we denote as <cmake_build_dir>, where you wa
     <cmake_build_dir>/bin/opencv_test_core
 
 ## Note
-    If the size of the created library is a critical issue (like in case of an Android build) you can use the install/strip command to get the smallest size possible. The stripped version appears to be twice as small. However, we do not recommend using this unless those extra megabytes do really matter. 
-
-
+    If the size of the created library is a critical issue (like in case of an Android build) you can use the install/strip command to get the smallest size possible. The stripped version appears to be twice as small. However, we do not recommend using this unless those extra megabytes do really matter.

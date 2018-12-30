@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: Get started at MVP Club session August 8, 2018
+description: "Starting at the MVP Club, you will get to learn about development and cloud technologies."
+date:   2018-08-08 23:30:00 +0530
 author: hansen
 featured: true
 published: true

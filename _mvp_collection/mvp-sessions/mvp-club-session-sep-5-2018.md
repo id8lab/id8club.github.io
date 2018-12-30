@@ -1,6 +1,9 @@
 ---
 layout: default
 title: MVP Club session September 5, 2018
+author: hansen
+comments: true
+image: assets/images/jcucairns.jpg
 permalink: mvpclubsessionsep052018.html
 ---
 

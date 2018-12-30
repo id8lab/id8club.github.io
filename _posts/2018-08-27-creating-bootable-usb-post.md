@@ -4,9 +4,11 @@ comments: true
 title:   "Creating a bootable USB stick"
 description: Create a bootable linux USB stick
 date:   2018-08-27 23:30:00 +0530
-categories: linux
-tags: linux
+categories: [ linux ]
+author: hansen
 published: true
+comments: true
+image: assets/images/linux_usb.png
 redirect_from:
   - /JCU MVP/post/
   - /bootableUSB.html

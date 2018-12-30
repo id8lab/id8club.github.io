@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: post
 title: Jekyll and markdown reference
 author: hansen
 comments: true
+date:   2018-08-08 23:30:00 +0530
+featured: true
+categories: [ jekyll, github ]
 image: assets/images/jcucairns.jpg
 permalink: jekyllandmarkdown.html
 ---
