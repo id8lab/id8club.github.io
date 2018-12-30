@@ -9,7 +9,7 @@ featured: true
 published: true
 categories: [ jcu, mvpclub ]
 permalink: firstmvpclubsession.html
-image: assets/images/jcucairns.jpg
+image: https://i.imgur.com/LY2nOaF.jpg
 ---
 
 
