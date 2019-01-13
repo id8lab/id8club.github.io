@@ -103,11 +103,12 @@ A `std::pair` object is used instead of two arguments for reasons of compatibili
 
 When compiling code in C++11 mode (using the compiler flag **`-std=c++11`**), `std::map` instances can be initialised declaratively using initializer lists, in the same manner as a `std::vector`. The initializer list represents a series of `std::pair` instances, like so:
 
+{% raw  %}
 ```cpp
 //Equivalent to the three assignment statements in the earlier example
 map<string, string> dict = {{"a", "hello"}, {"b", "world"}, {"c", "!"}};
 ```
-
+{% endraw %}
 
 Iterators
 =========
@@ -154,6 +155,7 @@ The loop body accesses the current element in the container by using the overloa
 
 We can traverse a `std::map` instance in the same manner:
 
+{% raw %}
 ```cpp
 map<string, string> dict = {{"a", "hello"}, {"b", "world"}, {"c", "!"}};
 
@@ -168,6 +170,7 @@ for
 	cout << (*currItem).first << " -> " << currItem->second << endl;
 }
 ```
+{% endraw %}
 
 Note that when a `map<string, string>::iterator` is dereferenced, the returned reference type is **`std::pair<string, string>&`**. We can access the first element of the pair (the key) using the `first` property, and the second element (the value) using the `second` property. When accessing member fields or methods of the element, we can use either a dereference (`*`) and the dot operator (`.`), as is used for accessing the key in the example above, or we can utilise the syntactic sugar of the arrow operator (`->`), as is used for accessing the value in the example above.
 
@@ -237,6 +240,7 @@ for (vector<int>::iterator iter = vec.begin(); iter != vec.end(); ++iter)
 
 A foreach loop to iterate over a `std::map` container would be as follows:
 
+{% raw %}
 ```cpp
 map<string, string> dict = {{"a", "hello"}, {"b", "world"}, {"c", "!"}};
 
@@ -245,6 +249,7 @@ for (std::pair<const string,string>& currElem : dict) {
 	cout << currElem.first << " -> " << currElem.second << endl;
 }
 ```
+{% endraw %}
 
 
 Using the C++11 `auto` keyword
@@ -252,6 +257,7 @@ Using the C++11 `auto` keyword
 
 Instead of explicitly writing the reference type when declaring a foreach loop, it is easier to use the C++11 `auto` keyword, which will be substituted for the correct type at compile-time using type deduction:
 
+{% raw %}
 ```cpp
 vector<int> vec = {1, 2, 3, 4, 5};
 
@@ -267,6 +273,7 @@ for (auto currElem : dict) {
 	cout << currElem.first << " -> " << currElem.second << endl;
 }
 ```
+{% endraw %}
 
 This has a number of benefits aside from succinctness. Because the type is deduced by the compiler, it will always match the correct one. This avoids issues caused by **the programmer accidentally specifying the wrong type**. Consider the example below:
 
