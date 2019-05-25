@@ -10,6 +10,17 @@ permalink: IOT-Image-recognition.html
 
 ---
 
+### Github repositories
+
+- https://github.com/mvpclub/IOT-Image-recognition/
+- https://github.com/92coorob/Facerec2
+- https://github.com/92coorob/AttendanceApp
+
+
+---
+
+---
+
 ### IoT Image Recognition
 This project was inspired by the poor attendance system currently implemented in JCU. How many times have you missed attendance because you forgot to tap in during class? for your average student it's probably more than you can count.
 
@@ -25,10 +36,10 @@ It could potentially also stop people from being able to "tap and leave" by moni
 
 - Make it easier for students and lecturers to get their attendance
 - More accurate attendance taking (make sure students are actually in class and don't just tap and leave)
-- ?
-- ?
+
 
 ---
+
 
 ### Architecture
 <br>
