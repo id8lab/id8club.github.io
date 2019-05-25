@@ -76,6 +76,27 @@ the facerec main code has three different modes
 
 ---
 
+---
+
+### The Attendance app
+
+login page
+         <img src="https://lh3.googleusercontent.com/1cggzTHJRXbCQT8Wz0wy-bNlpO427THBIlIHsJpPsjKLAkKQ6Lh9QDm9RznX7BsZTs_skcv-sshJDXEOyFWUWzV1yix7bFQRjVIO1AlZqBVyUwRqdDbvtmVAjEWmHc-pnwD79dgSrhN-QNCETUV2uocBUYHJJ8Ivevzhj8wuUoZUBCN7y5dLEM4Q5GDiaB9p6SFrdAY5iGquB_m62JS-2GUDGqcP1iYjKnZOx9Whl8C6MHwK1jjuu_QPbOEoDJxbidoVJ72F6hX0i5-IweoqRiqJzUz4jnTD394AaNvDMHX3lPMl_hiAZ4oEv757j5-qdRTwER5vuSYprD1MPEsouToavSMbd-V5EenrrIunnaDZAsB0D_9bk-mhnvQFu9o0HYC8cjn7XLn07MoZJ-8Q_bsC7iF7X42FRtAdoiKeJPnF1R9PcLZlw2HqW4jue24k5bQF70FqGcWkoYqOERCZitnnXzJtMs2X8DVwGYQDyrwusMWx5w9L51uUGoJ6aDBpS3Q-XZkfFUWYjqnwhAtCjPZSGftp419dCEoMJYIGya3luIIxa3yPZ0CtYroienWs2fyXMhrR1I3JJzy1xgcSRJ1g2IeG4JxsLjp_O55JfhY_ep-5jAX-4X3VreLP85_zlthA4Xle576YlkqwedqV4pYr=w397-h809-no">
+         
+splash screen
+
+         <img src="https://lh3.googleusercontent.com/x7DP1lXMNTGPcPHcc5FwHSAULAFzWJCWifuo4C4fHqH5GRixNQpY5n9X-oog1bF1ZKzBE3Al9WgKSD-ife0TVLtUA_4YKT3vojrdspZFSNZzwYleWVlkRRHelO8yU3yK6A4rYDnLTvSD5HvbGi0m6DXvJ3sgsJlVlM47kel5IrEzbEmLbNtX8FajqvWa0p25kKED58oUppjUuHgcLgJ96s2Ho-pfZBBRDDjE6bo9ESDfywKnBzLL0cmLSD_6NVm7rvXbQ2XODd6N2qxmo9Dpn1uwS5WDWqnUQHKsHi11OKQfhaHd5aevucj9GhnT1t82d7y70Ic8w9xZSg07WJTNoSuvPq4fK_aUm1ReaI9tHoMWFQNz81URpGP1Dq-uy6a-WHCyfcSsnRevXTXr5-cld-otOv9pRFvUH4Zqmux6-s50C1Crj6wwjIB24Sj3yzvFnz1Kc1YU7eZCC5G04EdmUKgKcrvy92N6kLYSNYrSF-eDKUoSxIKEbkMBQKfWE7_vSZY4R-h5kCDA5M1zOR09NU-5okcF4whpdBeQGUo0xxlcJ_EGEe3avMwaZ7iu6WPfDYkjvSkc4e_9coYrh6gwm-sIo4GopW9ihSyMqqkHL0P79KYoo8AR9C-FDumn_MwjY6Tyyv_j-iMTT0LNUuyYPCjQ=w398-h820-no">
+         
+<table>
+
+   <tr>
+				 
+                              <th class="img-circular"><a href="Aquapella.html"><img src='<img src="https://lh3.googleusercontent.com/cQIRHLw4tMgxcnBRBk069VYGuHjXhs8tOFfX31sSMS6I3JKz8RYmomvIHgnJwx8d-MCZ19jnFB3CqSlkrv98eIflWSQoSxSiey5KSfG__qnuP6AlBwmuxKnzoG-Crsiid3uuFnX5yV_q7EGcKsTKXVA2YePr5cRtNN0jsw_VcSALVJHv1x9dVKSHWJSEXIUOuP-i7c6IxjiG4DooAHThoW7XrANJmYvn78sWBPlXMl-GPX645Pe_XzKlQs7HhsT0o5U8I29J-S6q70qEmPm5G5KQKqHe6EaRryKLtWxvTo-9haqKid6IpM_WRWIDPcPS9CixaGxJXeLmtVrFFUFJaEVA6jDUDM40exAUVwvUdljmxt-GHIRztsJz-FrBQ0hAUDNbLzua39ufL-8Yk-SlpeSSuzufTT2s8dFv7mbPg5tnNtVQkIz00k-w5eDASy9UTwMeaETo_IXpipluf7MJjTYjadeQM5SLkaFby7aOogin9agb06W1FLc6XOhFSXkLV7uWPG6HtgB3ml_FASqMlOPBkVmpnwO3ABZHvurBLYxLWU37BSwFmbITcb-X2JdgNTDrs-BpYCtT-ARhvsZZtF8FAw8lK0RDkQIQoYcdE1TJm9Sbn8ezo1GVPcRcuTD0JsmGWBf0iqjlyG_os8lnMY7Q=w397-h813-no">'      /></a></th>
+                              <th><a href="Aquapella.html"><img src='<img src="https://lh3.googleusercontent.com/kTnr_fNnhtGrHDWnTOksFnVVuYMCpTTQuXVzfk9KDs5a93bQoaBinn38DJy3xYjkaZnzfgrnsDUSbzsVRRDBqKRpuz6FWbbguIFooJzHC4SrskjTEh04iJ9UEqivkmWp8EE-s_RtIuqOojPNzzpQH2TZ-mHq5R4s3QTFhf-9dFUF5ArzwaK3XPUaQpqvpLrmxZZMa9qspcC1R2glNChPOrosFwkGbdFvx6BptOYxICj3CZPGNgkP6QoXapRpu7MevgWPclmve3Bea4oaSgTxXpdDJfyR5qwHbos5G-gxIczQVPl8wbMaaC88-Ke4Um7jyoEDUq7bxKPYwdj2QTmGMTRM6XcXzya0pMj8yIhfzgz903QkHkduR_v-K-ZT6PJKgB2knfx0EC6gGghXVrusZVsXh0r_yEexlDUFhI1GinzFsuNOckXhg47B0_3oex_exsgloBWz93oCrkrkOny3qpulw-Tssy1-yc-QDQ1DHUfVjSjt7GyLg-Uc_WfEyGc3Om7177qCjhYv2-2IlpYQt2RHPCgBFZrsq8oajP6Y-8krGDlrklv1ou8gsnZ2d7gaDGxGooFTzze3LgE7t5UAxlHzTLPX5dcPbnzj4TZ5MJ6NIIQ9Q_0NPALr4i9Vz8ZJuX_mQcXqsrzZWNfFfqc1-GkN=w409-h816-no">'      /></a></th>
+   </tr>
+   </table>      
+---
+
 
 ### Architecture
 <br>
