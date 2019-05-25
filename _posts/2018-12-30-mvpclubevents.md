@@ -11,6 +11,13 @@ image: assets/images/jcucairns.jpg
 permalink: jcumvpclubevents.html
 ---
 
+{% for item in site.events_collection %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
+
+
 ### The next MVP Club session
 
 We will be located in room C4-04
