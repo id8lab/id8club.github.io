@@ -11,7 +11,7 @@ permalink: Hackathon V2.html
 
 <img src="https://lh3.googleusercontent.com/tsZP_6r53P4OKzWaen9L-4ffKvIveMKEhrI5hyRMrZ60o9UZ6VhgqFovDqZ_SqEcgW-pte4H0_8h2uMzHWUcIhFaTpPt2pP-6MtSV6p61ZiV3T2cDFGJr-U-IXI580ZWgGfXsXm4iBEi7LlJbRclLZ1FYjUPtzv4Q6s5ms6EhPhdzxv9OcpC8xWeJWy2DvQa6DcLYSoBBY2hYtRQblQd7s2t9dRWxcSdhx8DNFHYD5n-vBd-CxaHEq-vEKdDvff8Vpjed0DjG8GF0ELCGh2_cRzHTKfxtrQXaZPEagZCxEHA5IyOauLYnUt1pbYoE6R9oFDObFnXJJ1XcCumCPIwQErJ7YvQm4G9StaEZ05JUhRukPXBYIkCwNR872XarXTW_48jex2-ApL-hnOik7MfSpMFhKZD2fLzORVKSP2WjT2YoPmnHE1_Nu35LBTV3oe7FBXxiNd5XE_qjV6WCQWRmFw02WozHnqnQOGR0EYAddoQj3sSJqYHQoV2GPA5iKmnvXIOtqy5wWjRjuG0Ul-DcUD7o09fo1kZ0QkQ0UIZ0V3Chpw2kVif7k3IQpx5lcwFe5NTBLE0gCaXlHL5TQYvO9QXwpiM0VyLjTus-ghMLKXnqnTJJnkaEdbBv-WoTY3Pa4M9rwUo6P4-6BQ0jpmOzpNU=w689-h966-no">
 
-### Overview
+### Competition Outline
 
 James Cook University’s Ideation and Innovation center “ID8 Lab” is
 proud to present our second-ever Hackathon competition.
@@ -29,3 +29,5 @@ This unique competition will enable you to develop your skillset in
 record timeframe. We encourage beginners to join us as it is particularly
 enriching. You can join wether you're interested in software, hardware or
 business & marketing.
+
+
