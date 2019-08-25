@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hackathon 2019
+title: Hackathon V1
 image: assets/images/hackathon1.JPG
 comments: true
 featured: true
